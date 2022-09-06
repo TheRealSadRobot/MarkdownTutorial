@@ -1,0 +1,10 @@
+#imports
+#presentation
+#get number input
+#check if divisible by 11:
+	#check if divisble by 7:
+		#win
+	#else:
+		#lose
+#else:
+	#lose
